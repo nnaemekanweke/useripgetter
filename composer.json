@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nnaemekanweke\\Ipgetter\\": "src/"
+            "Ipgetter\\": "src/getip"
         }
     },
     "authors": [
@@ -14,5 +14,7 @@
             "email": "nnaemeka.nweke2@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.6"
+    },
 }
