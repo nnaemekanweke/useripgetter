@@ -1,0 +1,18 @@
+{
+    "name": "nnaemekanweke/ipgetter",
+    "description": "Get user IP address",
+	"type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nnaemekanweke\\Ipgetter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nnaemeka Nweke",
+            "email": "nnaemeka.nweke2@gmail.com"
+        }
+    ],
+    "require": {}
+}
